@@ -1,0 +1,15 @@
+{
+  "name": "boltKrank-puppetWindowsExamples",
+  "version": "0.1.0",
+  "author": "boltKrank",
+  "summary": "Code examples for Puppet and Windows",
+  "license": "Apache-2.0",
+  "source": "https://github.com/boltKrank/puppetWindowsExamples",
+  "project_page": "https://github.com/boltKrank/puppetWindowsExamples",
+  "issues_url": "https://github.com/boltKrank/puppetWindowsExamples/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
